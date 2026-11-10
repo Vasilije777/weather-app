@@ -11,4 +11,4 @@ A native Android application developed to fetch, process, and display real-time 
 ---
 
 ## Opis projekta
-Maternja Android aplikacija za vremensku prognozu kreirana u Javi. Aplikacija vrši asinehrone mrežne zahteve ka OpenWeatherMap API-ju, parsira JSON odgovore u realnom vremenu i prikazuje trenutne vremenske uslove i prognozu kroz prilagođeni mobilni interfejs.
+Android aplikacija za vremensku prognozu kreirana u Javi. Aplikacija vrši asinehrone mrežne zahteve ka OpenWeatherMap API-ju, parsira JSON odgovore u realnom vremenu i prikazuje trenutne vremenske uslove i prognozu kroz prilagođeni mobilni interfejs.
